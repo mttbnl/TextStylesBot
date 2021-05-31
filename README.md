@@ -3,12 +3,6 @@ Get fancy text styles for your Telegram Messages
 
 ---
 
-## Try me!
-
-**Try it out by tagging [@txtfrmtbot](https://t.me/txtfrmtbot) on any chat screen at Telegram!**
-
----
-
 ## Currently supported text styles
 1. Z̸͙ͫ̕a̧̼̟͂̇l̢͉̉̀g̨̟̮͉͜ó̷̮ 
 1. bRoKeN CaPsLoCk
@@ -35,9 +29,3 @@ Get fancy text styles for your Telegram Messages
 > **⚠️ WARNING**: Some styles will not convert special characters (*e.g. á, é, í, ó, ú*) since they rely on the existence of a unicode equivalent, which don't exist for most characters outside the A-Z and 0-9 scope.
 
 > **⚠️ WARNING**: Telegram has forced result size limitations (around 260 characters), which means that long texts will be cut if they break this limit.
-
----
-
-## Removed due to bugs or unexpected behavior
-
-1. 1000010 1101001 1101110 1100001 1110010 1111001 (Binary)
